@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamrul Islam</h1>
 <h3 align="center">An aspiring MERN Stack developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wickedaf&label=Profile%20views&color=0e75b6&style=flat" alt="wickedaf" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wickedaf&label=Profile%20views&color=0e75b6&style=flat" alt="wickedaf" />
+  <a href="https://twitter.com/_wickedaf" target="blank"><img src="https://img.shields.io/twitter/follow/_wickedaf?logo=twitter&style=for-the-badge" alt="_wickedaf" /></a>
+</div>
 
-<p align="center"> <a href="https://twitter.com/_wickedaf" target="blank"><img src="https://img.shields.io/twitter/follow/_wickedaf?logo=twitter&style=for-the-badge" alt="_wickedaf" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-emon.web.app](https://portfolio-emon.web.app)
 
