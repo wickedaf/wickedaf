@@ -48,14 +48,16 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wickedaf&show_icons=true&locale=en&layout=compact" alt="wickedaf" />  
-</p>  
-
-<p><br /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&locale=en" alt="wickedaf" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wickedaf&" alt="wickedaf" />
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wickedaf&show_icons=true&locale=en&layout=compact" alt="wickedaf" />  
+  </p>  
+  
+  <p><br /> </p>
+  
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&locale=en" alt="wickedaf" /></p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickedaf&" alt="wickedaf" />
+  </p>
+</div>
