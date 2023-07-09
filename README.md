@@ -61,7 +61,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wickedaf&show_icons=true&theme=radical&locale=en&layout=compact" alt="wickedaf" />  
   </p>  
   <div align="center">&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&theme=radicallocale=en" alt="wickedaf" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&theme=radical&locale=en" alt="wickedaf" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickedaf&theme=radical" alt="wickedaf" />
   </div>
     
