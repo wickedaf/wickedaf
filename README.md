@@ -52,11 +52,9 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wickedaf&show_icons=true&locale=en&layout=compact" alt="wickedaf" />  
   </p>  
-  
-  <p><br /> </p>
-  
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&locale=en" alt="wickedaf" /></p>
-  
+  <p align="center">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&locale=en" alt="wickedaf" />
+  </p>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickedaf&" alt="wickedaf" />
   </p>
