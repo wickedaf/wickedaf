@@ -12,7 +12,7 @@
 - 📫 How to reach me **ishahriaremon@gmail.com**
 
 <div align="center">
-  <h3> 😂 Here is a random joke that'll make you laugh!</h3>
+  <h3>Here is a random joke that'll make you laugh! 😂 </h3>
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
