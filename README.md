@@ -59,11 +59,11 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wickedaf&show_icons=true&theme=radical&locale=en&layout=compact" alt="wickedaf" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wickedaf&show_icons=true&theme=dracula&locale=en&layout=compact" alt="wickedaf" />  
   </p>  
   <div align="center">&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&theme=radical&locale=en" alt="wickedaf" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickedaf&theme=radical" alt="wickedaf" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&theme=dracula&locale=en" alt="wickedaf" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickedaf&theme=dracula" alt="wickedaf" />
   </div>
     
 </div>
