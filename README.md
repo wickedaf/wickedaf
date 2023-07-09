@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **ishahriaremon@gmail.com**
 
+<div align="center">
+  - ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ishahriaremon" target="blank">
@@ -52,11 +58,11 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wickedaf&show_icons=true&locale=en&layout=compact" alt="wickedaf" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wickedaf&show_icons=true&theme=radical&locale=en&layout=compact" alt="wickedaf" />  
   </p>  
   <div align="center">&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&locale=en" alt="wickedaf" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickedaf&" alt="wickedaf" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wickedaf&show_icons=true&theme=radicallocale=en" alt="wickedaf" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickedaf&theme=radical" alt="wickedaf" />
   </div>
     
 </div>
